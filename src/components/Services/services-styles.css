@@ -1,0 +1,87 @@
+.services {
+  padding: 10% 5% 5%;
+}
+
+.service-card {
+  text-align: center;
+  padding: 1%;
+}
+
+.inner-card {
+  margin: 2%;
+  padding: 2%;
+  border-radius: 1rem;
+  min-height: 60em;
+  background-color: #393e41;
+}
+
+.intro {
+  font-family: roboto, sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.03em;
+  line-height: 1.5em;
+  font-size: 3.5em;
+  color: #393e41;
+  padding: 0 3% 2%;
+}
+
+.section {
+  font-family: roboto, sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.03em;
+  text-align: center;
+  padding: 5% 3%;
+  color: #ffffff;
+}
+
+.tile {
+  font-size: 3em;
+  padding: 10% 0;
+}
+
+.info {
+  font-size: 2em;
+  line-height: 1.5em;
+}
+
+@media screen and (max-width: 1024px) {
+  .tile {
+    font-size: 2.5em;
+  }
+
+  .info {
+    font-size: 1.5em;
+  }
+
+  .inner-card {
+    min-height: 48em;
+  }
+
+  .fa-7x {
+    font-size: 5em;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .inner-card {
+    min-height: 44em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .tile {
+    padding: 8% 0;
+  }
+
+  .services {
+    padding: 15% 5% 5%;
+  }
+
+  .inner-card {
+    min-height: 30em;
+  }
+
+  .fa-7x {
+    font-size: 4em;
+  }
+}

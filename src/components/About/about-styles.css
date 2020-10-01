@@ -1,0 +1,19 @@
+.about-me-text {
+  text-align: justify;
+  font-family: roboto, sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.03em;
+  line-height: 1.5em;
+  font-size: 2em;
+  padding: 5% 5%;
+  color: #393e41;
+}
+
+.profile-picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  padding: 15% 5% 0%;
+}

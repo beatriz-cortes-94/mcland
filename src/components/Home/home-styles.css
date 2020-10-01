@@ -1,0 +1,152 @@
+.jumbotron {
+  background-image: url("./../../assets/landing.jpeg");
+  position: relative;
+  background-size: cover;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.vertical-center {
+  min-height: 100%; /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+  width: 100%;
+  margin: 0em;
+}
+
+#container-section {
+  padding: 8% 5%;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+.inner {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.experience-section {
+  background-color: #393e41;
+}
+
+.title {
+  font-family: avalanche, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  line-height: 1.5em;
+  font-size: 6em;
+  padding: 0;
+  color: #393e41;
+}
+
+.subtitle {
+  font-family: roboto, sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 1.5em;
+  font-size: 2em;
+  margin: 10px 20px;
+  color: #393e41;
+}
+
+.experience-title {
+  font-family: roboto, sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.05em;
+  line-height: 1.5em;
+  font-size: 3.5em;
+  color: #ffffff;
+}
+
+.experience-subtitle {
+  font-family: roboto, sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.03em;
+  line-height: 1.5em;
+  font-size: 2em;
+  padding: 5% 5% 0%;
+  color: #ffffff;
+}
+
+.portafolio-title {
+  font-family: roboto, sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.05em;
+  line-height: 1.5em;
+  font-size: 3.5em;
+  padding-bottom: 2%;
+  color: #393e41;
+}
+
+/* carousel */
+
+.carousel-multi-item {
+  padding-bottom: 3%;
+}
+
+.carousel-inner {
+  padding-bottom: 3%;
+}
+
+.card-img-top {
+  vertical-align: middle;
+  width: 100%;
+  height: 300px;
+}
+
+.controls-top {
+  text-align: center;
+  font-size: 2em;
+  padding-bottom: 2%;
+}
+
+.btn-floating {
+  color: #393e41;
+  padding: 3%;
+}
+
+.portafolio-button {
+  font-family: roboto, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  line-height: 1.5em;
+  font-size: 1.5em;
+  padding: 1%;
+  border-style: solid;
+  border-width: 3px;
+  color: #393e41;
+}
+
+.portafolio-button:hover {
+  color: #ffffff;
+  background-color: #393e41;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 3px;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 823px) {
+  .title {
+    font-size: 4em;
+  }
+  .subtitle {
+    font-size: 1.5em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card-img-top {
+    height: 200px;
+  }
+}

@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e750f02.chunk.css",
-    "main.js": "/static/js/main.6a210465.chunk.js",
-    "main.js.map": "/static/js/main.6a210465.chunk.js.map",
+    "main.css": "/static/css/main.459b96be.chunk.css",
+    "main.js": "/static/js/main.f8842fe0.chunk.js",
+    "main.js.map": "/static/js/main.f8842fe0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.295fde61.js",
     "runtime-main.js.map": "/static/js/runtime-main.295fde61.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.d8b0285e.chunk.js": "/static/js/2.d8b0285e.chunk.js",
     "static/js/2.d8b0285e.chunk.js.map": "/static/js/2.d8b0285e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.735be2ea12a920632d5f972c76779fff.js": "/precache-manifest.735be2ea12a920632d5f972c76779fff.js",
+    "precache-manifest.5912e418a4f0c7bba25e169a19d42412.js": "/precache-manifest.5912e418a4f0c7bba25e169a19d42412.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.2e750f02.chunk.css.map": "/static/css/main.2e750f02.chunk.css.map",
+    "static/css/main.459b96be.chunk.css.map": "/static/css/main.459b96be.chunk.css.map",
     "static/js/2.d8b0285e.chunk.js.LICENSE.txt": "/static/js/2.d8b0285e.chunk.js.LICENSE.txt",
     "static/media/asuq1.jpg": "/static/media/asuq1.8fef3592.jpg",
     "static/media/asuq2.jpg": "/static/media/asuq2.4a271006.jpg",
@@ -25,7 +25,7 @@
     "static/media/hacienda_patron3.jpg": "/static/media/hacienda_patron3.620d1eab.jpg",
     "static/media/home-styles.css": "/static/media/landing.f6aa3626.jpeg",
     "static/media/logo.png": "/static/media/logo.b5519d7a.png",
-    "static/media/manolo.jpg": "/static/media/manolo.7cd31419.jpg",
+    "static/media/manolo.jpg": "/static/media/manolo.249e1050.jpg",
     "static/media/marquis_cabos1.jpg": "/static/media/marquis_cabos1.fa41552b.jpg",
     "static/media/marquis_cabos2.jpg": "/static/media/marquis_cabos2.d51e5713.jpg",
     "static/media/marquis_cabos3.jpg": "/static/media/marquis_cabos3.e356d51a.jpg",
@@ -55,7 +55,7 @@
     "static/js/runtime-main.295fde61.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.d8b0285e.chunk.js",
-    "static/css/main.2e750f02.chunk.css",
-    "static/js/main.6a210465.chunk.js"
+    "static/css/main.459b96be.chunk.css",
+    "static/js/main.f8842fe0.chunk.js"
   ]
 }
